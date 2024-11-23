@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @syaffath
 - 👀 I’m interested in unmanned vehicles
 - 🌱 I’m currently learning ROS for image processing and navigation for multi mobile robots
-- 💞️ I’m looking to collaborate on control system, AI, and others for multi mobile robots
+- 💞️ I’m looking to collaborate on control system and AI for multi mobile robots
 - 📫 Any inquiries and collaboration? Please reach me through connect.syafiq@gmail.com
 
 <!---
